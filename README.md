@@ -1,21 +1,21 @@
  # create a git repository
 
-'''bash
+```bash
 git init
-'''
+```
 
-'''bash
+```bash
 git add .
-'''
+```
 
-'''bash
+```bash
 git commit -m "init commit"
-'''
+```
 
-'''bash
+```bash
 git push
-'''
+```
 
-'''bash
+```bash
 git status
-'''
+```
