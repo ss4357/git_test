@@ -1,5 +1,5 @@
  # create a git repository
-:sparkles::sparkles:
+:sparkles::sparkles::sparkles:
 ```bash
 git init
 ```
