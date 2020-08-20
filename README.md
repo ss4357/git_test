@@ -1,5 +1,5 @@
  # create a git repository
-
+:sparkles::sparkles:
 ```bash
 git init
 ```
@@ -15,7 +15,7 @@ git commit -m "init commit"
 ```bash
 git push
 ```
-
+:bug:
 ```bash
 git status
 ```
